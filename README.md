@@ -1,6 +1,8 @@
-# starter
+# Crystal learning repo
 
-TODO: Write a description here
+src/starter.cr is a program that fetches the top stories from hacker news concurrently
+src/cli.cr is how to make a basic CLI program
+src/http_server.cr is how to create a basic http server
 
 ## Installation
 
